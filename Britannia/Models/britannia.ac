@@ -2,13 +2,13 @@ AC3Db
 MATERIAL "Material" rgb 1.000 1.000 1.000  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 64 trans 0.000
 MATERIAL "transp.000" rgb 1.000 1.000 1.000  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 64 trans 0.745
 OBJECT world
-name "Blender_exporter_v3.2__brit-066.ac"
+name "Blender_exporter_v3.2__britannia2.ac"
 kids 10
 OBJECT poly
 name "body"
 data 8
 Cylinder
-crease 40.0
+crease 85.0
 texture "brit-tex.png"
 numvert 3790
 -8.23628 1.86781 0.46661
@@ -29391,7 +29391,7 @@ OBJECT poly
 name "gear"
 data 12
 Cylinder.013
-crease 40.0
+crease 89.0
 texture "brit-tex.png"
 numvert 840
 -12.33308 0.84833 0.12589
