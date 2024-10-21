@@ -1,11 +1,24 @@
 # Bristol Britannia
 ### AI Aircraft for FlightGear
 
-*This is still WIP but does work.*
 
+
+G-ANBE BOAC ------  G-ARKA British Eagle
+
+G-AOVH - Monarch ------  XX367 RAF Boscombe Down
 ![Britannia](screenshots/brit-1.jpg)
+
+G-AOVC - Donaldson
 ![Britannia](screenshots/brit-2.jpg)
+
+G-ANCD - BUA
 ![Britannia](screenshots/brit-3.jpg)
+
+EI-BBH - Aer Turas
+![Britannia](screenshots/brit-4.jpg)
+
+G-AOVS - Redcoat
+![Britannia](screenshots/brit-5.jpg)
 
 Download the zip file and extract the "Britannia" folder into the "$FG_ROOT/AI/Aircraft" folder.
 
